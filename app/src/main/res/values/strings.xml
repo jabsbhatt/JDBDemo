@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JDBDemo</string>
+    <string name="login_title">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">SIGN UP</string>
+    <string name="register_title">REGISTER</string>
+    <string name="email_address">Email Address</string>
+    <string name="username">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="done">DONE</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="ratting">Ratting</string>
+
+
+    <!-- Error msgs-->
+    <string name="invalid_email">Invalid Email</string>
+
+    <!-- drawer Item-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home_string">Movies List</string>
+    <string name="addmore_string">Add More</string>
+    <string name="add_new_movie">Add New Movie</string>
+    <string name="logout_string">Logout</string>
+    <string name="record_updated">Record updated successfully</string>
+    <string name="record_not_updated">Record not update</string>
+    <string name="record_removed">Record removed successfully</string>
+
+
+
+</resources>
